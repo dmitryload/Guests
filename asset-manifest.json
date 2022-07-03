@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Guests/static/css/main.74a13b6d.css",
-    "main.js": "/Guests/static/js/main.de5ac4dd.js",
+    "main.css": "/Guests/static/css/main.5dd171ed.css",
+    "main.js": "/Guests/static/js/main.694fe046.js",
     "static/js/787.9181411e.chunk.js": "/Guests/static/js/787.9181411e.chunk.js",
     "static/media/incognito.png": "/Guests/static/media/incognito.4df59ae5854c7b968f62.png",
     "static/media/friends.png": "/Guests/static/media/friends.f72b6037825b8a84eec1.png",
@@ -9,6 +9,7 @@
     "static/media/settings.png": "/Guests/static/media/settings.f6d6e350dbc6a0aa0432.png",
     "static/media/github.png": "/Guests/static/media/github.553c66159c5672f25df6.png",
     "static/media/message.png": "/Guests/static/media/message.49c5f1ad1b25e00a0a46.png",
+    "static/media/warning.png": "/Guests/static/media/warning.f6e8fb47741f1bffeb8f.png",
     "static/media/twitter.png": "/Guests/static/media/twitter.802534bf2678c3afb41d.png",
     "static/media/wallpaper.png": "/Guests/static/media/wallpaper.019b5929ffa149605238.png",
     "static/media/false.png": "/Guests/static/media/false.5cc943d27eb3ed685271.png",
@@ -21,12 +22,12 @@
     "static/media/true.png": "/Guests/static/media/true.6f298cca57a5a8b36055.png",
     "static/media/preloader.svg": "/Guests/static/media/preloader.3c1a14cead18c1c99880faa37fbffe79.svg",
     "index.html": "/Guests/index.html",
-    "main.74a13b6d.css.map": "/Guests/static/css/main.74a13b6d.css.map",
-    "main.de5ac4dd.js.map": "/Guests/static/js/main.de5ac4dd.js.map",
+    "main.5dd171ed.css.map": "/Guests/static/css/main.5dd171ed.css.map",
+    "main.694fe046.js.map": "/Guests/static/js/main.694fe046.js.map",
     "787.9181411e.chunk.js.map": "/Guests/static/js/787.9181411e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.74a13b6d.css",
-    "static/js/main.de5ac4dd.js"
+    "static/css/main.5dd171ed.css",
+    "static/js/main.694fe046.js"
   ]
 }
